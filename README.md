@@ -43,7 +43,7 @@ https://www.strava.com/api/v3/athlete/activities?access_token=[REPLACE_WITH_THE_
 ## For installing this project and running it in IDE
 ```raml
 - navigate to your IDE workspace in cmd/power shell/terminal
-- git clone https://github.com/Git-Nayanjyoti/API-II.git
+- git clone https://github.com/Git-Nayanjyoti/API-IV.git
 - import the already existing project in your IDE
 - run the tests
 ```
@@ -56,6 +56,6 @@ Note:
 You must have Maven in your system
 ```
 ```raml
-- git clone https://github.com/Git-Nayanjyoti/API-II.git
+- git clone https://github.com/Git-Nayanjyoti/API-IV.git
 - mvn test
 ```

@@ -25,10 +25,6 @@ public class BaseTest {
 	@BeforeClass
 	public void setup() {
 		RestAssured.baseURI = configProperties.getProperty("baseUrl");
-//		RestAssured.port = Integer.parseInt(configProperties.getProperty("port"));
-		System.out.println(configProperties.getProperty("baseUrl"));
-//		System.out.println(configProperties.getProperty("port"));
-
 	}
 
 	@AfterClass

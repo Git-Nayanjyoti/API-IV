@@ -57,5 +57,6 @@ You must have Maven in your system
 ```
 ```raml
 - git clone https://github.com/Git-Nayanjyoti/API-IV.git
+- cd API-IV
 - mvn test
 ```
